@@ -1,255 +1,0 @@
-TJSGame
-v5
-r1
-cCheck dependencies
-cSymLink /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/BuildProductsPath/Release/JSGame /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/InstallationBuildProductsLocation/usr/local/bin/JSGame
-cCompileC DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/Objects-normal/x86_64/main.o /Users/andy/src/JSGame/JSGame/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/Objects-normal/x86_64/javascript_main.o /Users/andy/src/JSGame/JSGame/javascript_main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/Objects-normal/x86_64/Player.o /Users/andy/src/JSGame/JSGame/Player.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/Objects-normal/x86_64/gfxBox.o /Users/andy/src/JSGame/JSGame/gfxBox.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/Objects-normal/x86_64/Display.o /Users/andy/src/JSGame/JSGame/Display.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cLd /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/InstallationBuildProductsLocation/usr/local/bin/JSGame normal x86_64
-cGenerateDSYMFile /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/BuildProductsPath/Release/JSGame.dSYM /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/InstallationBuildProductsLocation/usr/local/bin/JSGame
-cPBXCp JSGame/JSGame.1 DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/InstallationBuildProductsLocation/usr/share/man/man1/JSGame.1
-cStrip /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/InstallationBuildProductsLocation/usr/local/bin/JSGame
-cSetOwnerAndGroup andy:staff /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/InstallationBuildProductsLocation/usr/local/bin/JSGame
-cSetMode u+w,go-w,a+rX /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/InstallationBuildProductsLocation/usr/local/bin/JSGame
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk
-c000000004F90F72900000000000000CC
-t1334900521
-s204
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/GLUT.framework/GLUT
-c000000004FDFB9D00000000000013488
-t1340062160
-s78984
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
-c000000004FDFB9D1000000000000A518
-t1340062161
-s42264
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/lib/libpthread.dylib
-c000000004FDFB9D3000000000001193C
-t1340062163
-s71996
-
-N/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/BuildProductsPath/Release/JSGame
-t2
-s0
-
-N/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/BuildProductsPath/Release/JSGame.dSYM
-t2
-s0
-
-N/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/InstallationBuildProductsLocation/usr/local/bin/JSGame
-t2
-s0
-
-N/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/InstallationBuildProductsLocation/usr/share/man/man1/JSGame.1
-t2
-s0
-
-N/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/Objects-normal/x86_64/Display.o
-t2
-s0
-
-N/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/Objects-normal/x86_64/JSGame.LinkFileList
-c00000000502E7DBC0000000000000373
-t1345224124
-s883
-
-N/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/Objects-normal/x86_64/Player.o
-t2
-s0
-
-N/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/Objects-normal/x86_64/gfxBox.o
-t2
-s0
-
-N/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/Objects-normal/x86_64/javascript_main.o
-t2
-s0
-
-N/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/Objects-normal/x86_64/main.o
-t2
-s0
-
-N/Users/andy/src/JSGame/JSGame/Display.cpp
-c00000000502DD2F80000000000000B9A
-t1345180408
-s2970
-
-N/Users/andy/src/JSGame/JSGame/JSGame.1
-c00000000502C186C0000000000000C2E
-t1345067116
-s3118
-
-N/Users/andy/src/JSGame/JSGame/Player.cpp
-c00000000502D3D180000000000000981
-t1345142040
-s2433
-
-N/Users/andy/src/JSGame/JSGame/gfxBox.cpp
-c00000000502D64D200000000000001F1
-t1345152210
-s497
-
-N/Users/andy/src/JSGame/JSGame/javascript_main.cpp
-c00000000502E7BF30000000000000C0D
-t1345223667
-s3085
-
-N/Users/andy/src/JSGame/JSGame/main.cpp
-c00000000502D3D1E00000000000003B2
-t1345142046
-s946
-
-CBuild AST from /Users/andy/src/JSGame/JSGame/Display.cpp
-r0
-
-CBuild AST from /Users/andy/src/JSGame/JSGame/Player.cpp
-r0
-
-CBuild AST from /Users/andy/src/JSGame/JSGame/gfxBox.cpp
-r0
-
-CBuild AST from /Users/andy/src/JSGame/JSGame/javascript_main.cpp
-r0
-
-CBuild AST from /Users/andy/src/JSGame/JSGame/main.cpp
-r0
-
-CCheck dependencies
-r0
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies9a5fe13cb5deb541^a585e73cb5deb541^---0#1#0#--18"Check dependencies36"5AE89C0E-36C1-4C00-84E0-F8BDEB218CE0-
-
-CCompileC DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/Objects-normal/x86_64/Display.o /Users/andy/src/JSGame/JSGame/Display.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s366916924.920358
-e366916925.228545
-r1
-xCompileC
-xDerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/Objects-normal/x86_64/Display.o
-x/Users/andy/src/JSGame/JSGame/Display.cpp
-xnormal
-xx86_64
-xc++
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Compile /Users/andy/src/JSGame/JSGame/Display.cpp1adbeb3cb5deb541^dc813a3db5deb541^---0#0#0#-19%DVTDocumentLocation2@57"file://localhost/Users/andy/src/JSGame/JSGame/Display.cpp0000000000000000^3130"CompileC DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/Objects-normal/x86_64/Display.o JSGame/Display.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/andy/src/JSGame    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wshorten-64-to-32 -Wno-newline-eof -Wc++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-conversion -Wno-sign-conversion -iquote /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/JSGame-generated-files.hmap -I/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/JSGame-own-target-headers.hmap -I/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/JSGame-all-target-headers.hmap -iquote /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/JSGame-project-headers.hmap -I/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/BuildProductsPath/Release/include -I/Users/andy/src/google_v8/include -I/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/DerivedSources/x86_64 -I/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/DerivedSources -F/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/BuildProductsPath/Release -MMD -MT dependencies -MF /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/Objects-normal/x86_64/Display.d --serialize-diagnostics /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/Objects-normal/x86_64/Display.dia -c /Users/andy/src/JSGame/JSGame/Display.cpp -o /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/Objects-normal/x86_64/Display.o36"94C37B61-2A8A-4006-9329-65B1442CD3E2-
-
-CCompileC DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/Objects-normal/x86_64/Player.o /Users/andy/src/JSGame/JSGame/Player.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s366916924.920030
-e366916925.249952
-r1
-xCompileC
-xDerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/Objects-normal/x86_64/Player.o
-x/Users/andy/src/JSGame/JSGame/Player.cpp
-xnormal
-xx86_64
-xc++
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Compile /Users/andy/src/JSGame/JSGame/Player.cpp85ceeb3cb5deb541^1efd3f3db5deb541^---0#0#0#-19%DVTDocumentLocation2@56"file://localhost/Users/andy/src/JSGame/JSGame/Player.cpp0000000000000000^3124"CompileC DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/Objects-normal/x86_64/Player.o JSGame/Player.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/andy/src/JSGame    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wshorten-64-to-32 -Wno-newline-eof -Wc++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-conversion -Wno-sign-conversion -iquote /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/JSGame-generated-files.hmap -I/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/JSGame-own-target-headers.hmap -I/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/JSGame-all-target-headers.hmap -iquote /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/JSGame-project-headers.hmap -I/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/BuildProductsPath/Release/include -I/Users/andy/src/google_v8/include -I/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/DerivedSources/x86_64 -I/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/DerivedSources -F/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/BuildProductsPath/Release -MMD -MT dependencies -MF /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/Objects-normal/x86_64/Player.d --serialize-diagnostics /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/Objects-normal/x86_64/Player.dia -c /Users/andy/src/JSGame/JSGame/Player.cpp -o /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/Objects-normal/x86_64/Player.o36"CF78C16E-91B6-430F-BCDF-6F4BE2F0C984-
-
-CCompileC DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/Objects-normal/x86_64/gfxBox.o /Users/andy/src/JSGame/JSGame/gfxBox.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s366916924.920373
-e366916925.200950
-r1
-xCompileC
-xDerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/Objects-normal/x86_64/gfxBox.o
-x/Users/andy/src/JSGame/JSGame/gfxBox.cpp
-xnormal
-xx86_64
-xc++
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Compile /Users/andy/src/JSGame/JSGame/gfxBox.cpp62d6eb3cb5deb541^fc71333db5deb541^---0#0#0#-19%DVTDocumentLocation2@56"file://localhost/Users/andy/src/JSGame/JSGame/gfxBox.cpp0000000000000000^3124"CompileC DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/Objects-normal/x86_64/gfxBox.o JSGame/gfxBox.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/andy/src/JSGame    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wshorten-64-to-32 -Wno-newline-eof -Wc++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-conversion -Wno-sign-conversion -iquote /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/JSGame-generated-files.hmap -I/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/JSGame-own-target-headers.hmap -I/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/JSGame-all-target-headers.hmap -iquote /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/JSGame-project-headers.hmap -I/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/BuildProductsPath/Release/include -I/Users/andy/src/google_v8/include -I/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/DerivedSources/x86_64 -I/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/DerivedSources -F/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/BuildProductsPath/Release -MMD -MT dependencies -MF /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/Objects-normal/x86_64/gfxBox.d --serialize-diagnostics /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/Objects-normal/x86_64/gfxBox.dia -c /Users/andy/src/JSGame/JSGame/gfxBox.cpp -o /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/Objects-normal/x86_64/gfxBox.o36"6EDE24B3-DC85-49AB-A0B0-17D5E96B2A5F-
-
-CCompileC DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/Objects-normal/x86_64/javascript_main.o /Users/andy/src/JSGame/JSGame/javascript_main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s366916924.919791
-e366916925.264352
-r1
-xCompileC
-xDerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/Objects-normal/x86_64/javascript_main.o
-x/Users/andy/src/JSGame/JSGame/javascript_main.cpp
-xnormal
-xx86_64
-xc++
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Compile /Users/andy/src/JSGame/JSGame/javascript_main.cpp2fa4eb3cb5deb541^93ac433db5deb541^---0#0#0#-19%DVTDocumentLocation2@65"file://localhost/Users/andy/src/JSGame/JSGame/javascript_main.cpp0000000000000000^3178"CompileC DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/Objects-normal/x86_64/javascript_main.o JSGame/javascript_main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/andy/src/JSGame    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wshorten-64-to-32 -Wno-newline-eof -Wc++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-conversion -Wno-sign-conversion -iquote /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/JSGame-generated-files.hmap -I/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/JSGame-own-target-headers.hmap -I/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/JSGame-all-target-headers.hmap -iquote /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/JSGame-project-headers.hmap -I/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/BuildProductsPath/Release/include -I/Users/andy/src/google_v8/include -I/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/DerivedSources/x86_64 -I/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/DerivedSources -F/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/BuildProductsPath/Release -MMD -MT dependencies -MF /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/Objects-normal/x86_64/javascript_main.d --serialize-diagnostics /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/Objects-normal/x86_64/javascript_main.dia -c /Users/andy/src/JSGame/JSGame/javascript_main.cpp -o /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/Objects-normal/x86_64/javascript_main.o36"C83F4946-CC23-4F84-8307-1715EA0DB99B-
-
-CCompileC DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/Objects-normal/x86_64/main.o /Users/andy/src/JSGame/JSGame/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s366916924.919721
-e366916925.225576
-r1
-xCompileC
-xDerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/Objects-normal/x86_64/main.o
-x/Users/andy/src/JSGame/JSGame/main.cpp
-xnormal
-xx86_64
-xc++
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Compile /Users/andy/src/JSGame/JSGame/main.cpp1ba1eb3cb5deb541^83c1393db5deb541^---0#0#0#-19%DVTDocumentLocation2@54"file://localhost/Users/andy/src/JSGame/JSGame/main.cpp0000000000000000^3112"CompileC DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/Objects-normal/x86_64/main.o JSGame/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/andy/src/JSGame    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wshorten-64-to-32 -Wno-newline-eof -Wc++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-conversion -Wno-sign-conversion -iquote /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/JSGame-generated-files.hmap -I/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/JSGame-own-target-headers.hmap -I/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/JSGame-all-target-headers.hmap -iquote /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/JSGame-project-headers.hmap -I/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/BuildProductsPath/Release/include -I/Users/andy/src/google_v8/include -I/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/DerivedSources/x86_64 -I/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/DerivedSources -F/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/BuildProductsPath/Release -MMD -MT dependencies -MF /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/Objects-normal/x86_64/main.dia -c /Users/andy/src/JSGame/JSGame/main.cpp -o /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/Objects-normal/x86_64/main.o36"EA7A479F-667C-48EF-A2BF-576C1D641736-
-
-CGenerateDSYMFile /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/BuildProductsPath/Release/JSGame.dSYM /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/InstallationBuildProductsLocation/usr/local/bin/JSGame
-s366916925.669218
-e366916930.061921
-r1
-xGenerateDSYMFile
-x/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/BuildProductsPath/Release/JSGame.dSYM
-x/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/InstallationBuildProductsLocation/usr/local/bin/JSGame
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"Generating /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/BuildProductsPath/Release/JSGame.dSYM895dab3db5deb541^01dd0f42b5deb541^---0#0#0#-19%DVTDocumentLocation2@136"file://localhost/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/BuildProductsPath/Release/JSGame.dSYM000000000080d041^586"GenerateDSYMFile DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/BuildProductsPath/Release/JSGame.dSYM DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/InstallationBuildProductsLocation/usr/local/bin/JSGame    cd /Users/andy/src/JSGame    /Applications/Xcode.app/Contents/Developer/usr/bin/dsymutil /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/InstallationBuildProductsLocation/usr/local/bin/JSGame -o /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/BuildProductsPath/Release/JSGame.dSYM36"C8AAB40A-376A-4975-B913-E07EDD1BF791-
-
-CLd /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/InstallationBuildProductsLocation/usr/local/bin/JSGame normal x86_64
-s366916925.272007
-e366916925.661455
-r1
-xLd
-x/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/InstallationBuildProductsLocation/usr/local/bin/JSGame
-xnormal
-xx86_64
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection142"Link /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/InstallationBuildProductsLocation/usr/local/bin/JSGame3aca453db5deb541^6155a93db5deb541^---0#0#0#--1093"Ld DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/InstallationBuildProductsLocation/usr/local/bin/JSGame normal x86_64    cd /Users/andy/src/JSGame    setenv MACOSX_DEPLOYMENT_TARGET 10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -L/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/BuildProductsPath/Release -F/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/BuildProductsPath/Release -filelist /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/IntermediateBuildFilesPath/JSGame.build/Release/JSGame.build/Objects-normal/x86_64/JSGame.LinkFileList -mmacosx-version-min=10.7 /Users/andy/src/google_v8/libv8-debug.a -lpthread -framework GLUT -framework OpenGL -o /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/InstallationBuildProductsLocation/usr/local/bin/JSGame36"87280C9B-0D26-44FB-B299-8B4F34C65C64-
-
-CPBXCp JSGame/JSGame.1 DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/InstallationBuildProductsLocation/usr/share/man/man1/JSGame.1
-s366916930.070926
-e366916930.073613
-r1
-xPBXCp
-xJSGame/JSGame.1
-xDerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/InstallationBuildProductsLocation/usr/share/man/man1/JSGame.1
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Copy DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/InstallationBuildProductsLocation/usr/share/man/man1/JSGame.148331242b5deb541^0edb1242b5deb541^---0#0#0#-19%DVTDocumentLocation2@160"file://localhost/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/InstallationBuildProductsLocation/usr/share/man/man1/JSGame.1000000000080d041^587"PBXCp JSGame/JSGame.1 DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/InstallationBuildProductsLocation/usr/share/man/man1/JSGame.1    cd /Users/andy/src/JSGame    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/andy/src/JSGame/JSGame/JSGame.1 /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/InstallationBuildProductsLocation/usr/share/man/man136"E7020B60-B47A-42E7-A7C8-02A7F525D862-
-
-CSetMode u+w,go-w,a+rX /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/InstallationBuildProductsLocation/usr/local/bin/JSGame
-s366916930.149811
-e366916930.153787
-r1
-xSetMode
-xu+w,go-w,a+rX
-x/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/InstallationBuildProductsLocation/usr/local/bin/JSGame
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection136"SetMode u+w,go-w,a+rX DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/InstallationBuildProductsLocation/usr/local/bin/JSGame91642642b5deb541^3d5f2742b5deb541^---0#0#0#-19%DVTDocumentLocation2@153"file://localhost/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/InstallationBuildProductsLocation/usr/local/bin/JSGame0000000000000000^338"SetMode u+w,go-w,a+rX DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/InstallationBuildProductsLocation/usr/local/bin/JSGame    cd /Users/andy/src/JSGame    /bin/chmod -RH u+w,go-w,a+rX /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/InstallationBuildProductsLocation/usr/local/bin/JSGame36"4476CEFD-5AC2-4F54-B59A-F215ACA865FC-
-
-CSetOwnerAndGroup andy:staff /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/InstallationBuildProductsLocation/usr/local/bin/JSGame
-s366916930.134385
-e366916930.141639
-r1
-xSetOwnerAndGroup
-xandy:staff
-x/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/InstallationBuildProductsLocation/usr/local/bin/JSGame
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection142"SetOwnerAndGroup andy:staff DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/InstallationBuildProductsLocation/usr/local/bin/JSGame967a2242b5deb541^ea422442b5deb541^---0#0#0#-19%DVTDocumentLocation2@153"file://localhost/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/InstallationBuildProductsLocation/usr/local/bin/JSGame0000000000000000^350"SetOwnerAndGroup "andy:staff" DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/InstallationBuildProductsLocation/usr/local/bin/JSGame    cd /Users/andy/src/JSGame    /usr/sbin/chown -RH "andy:staff" /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/InstallationBuildProductsLocation/usr/local/bin/JSGame36"14A9B39C-E631-4C32-9BFB-8D9497FB3B22-
-
-CStrip /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/InstallationBuildProductsLocation/usr/local/bin/JSGame
-s366916930.082780
-e366916930.126333
-r1
-xStrip
-x/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/InstallationBuildProductsLocation/usr/local/bin/JSGame
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Strip DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/InstallationBuildProductsLocation/usr/local/bin/JSGamec9391542b5deb541^6d572042b5deb541^---0#0#0#-19%DVTDocumentLocation2@153"file://localhost/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/InstallationBuildProductsLocation/usr/local/bin/JSGame0000000000000000^386"Strip DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/InstallationBuildProductsLocation/usr/local/bin/JSGame    cd /Users/andy/src/JSGame    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/InstallationBuildProductsLocation/usr/local/bin/JSGame36"87C60DFF-E37B-466B-AD2E-1DCFA72ACAAB-
-
-CSymLink /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/BuildProductsPath/Release/JSGame /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/InstallationBuildProductsLocation/usr/local/bin/JSGame
-s366916924.906758
-e366916924.910504
-r1
-xSymLink
-x/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/BuildProductsPath/Release/JSGame
-x/Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/InstallationBuildProductsLocation/usr/local/bin/JSGame
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Process /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/BuildProductsPath/Release/JSGame992ae83cb5deb541^b916e93cb5deb541^---0#0#0#--516"SymLink DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/BuildProductsPath/Release/JSGame DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/InstallationBuildProductsLocation/usr/local/bin/JSGame    cd /Users/andy/src/JSGame    /bin/ln -sf /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/InstallationBuildProductsLocation/usr/local/bin/JSGame /Users/andy/src/JSGame/DerivedData/Build/Intermediates/ArchiveIntermediates/JSGame/BuildProductsPath/Release/JSGame36"C88257EA-AA54-4BC4-91BB-5DDDE3BE254C-
-
