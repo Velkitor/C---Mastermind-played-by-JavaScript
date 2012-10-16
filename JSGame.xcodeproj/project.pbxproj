@@ -1,0 +1,283 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A10663CA15E7FBC400DA00C8 /* Battleship.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A10663C915E7FBC400DA00C8 /* Battleship.cpp */; };
+		A11DD0F915DCB8BD00B1A0D7 /* OpenGL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A11DD0F815DCB8BD00B1A0D7 /* OpenGL.framework */; };
+		A11DD0FC15DCB90500B1A0D7 /* GLUT.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A11DD0FB15DCB90500B1A0D7 /* GLUT.framework */; };
+		A11DD0FE15DCD02900B1A0D7 /* Display.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A11DD0FD15DCD02900B1A0D7 /* Display.cpp */; };
+		A11DD10115DCD91900B1A0D7 /* libpthread.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = A11DD10015DCD91900B1A0D7 /* libpthread.dylib */; };
+		A1B2305915DD737100D9A2E1 /* gfxBox.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A1B2305815DD737100D9A2E1 /* gfxBox.cpp */; };
+		A1D4CA7B15DC4FEC002817C7 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A1D4CA7A15DC4FEC002817C7 /* main.cpp */; };
+		A1D4CA7D15DC4FEC002817C7 /* JSGame.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = A1D4CA7C15DC4FEC002817C7 /* JSGame.1 */; };
+		A1D4CA8415DC7C89002817C7 /* javascript_main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A1D4CA8315DC7C89002817C7 /* javascript_main.cpp */; };
+		A1D4CA8715DC802A002817C7 /* Player.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A1D4CA8615DC802A002817C7 /* Player.cpp */; };
+		A1EF771E15DF49B00025A77E /* Mastermind.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A1EF771D15DF49B00025A77E /* Mastermind.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		A1D4CA7415DC4FEC002817C7 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+				A1D4CA7D15DC4FEC002817C7 /* JSGame.1 in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		A10663C915E7FBC400DA00C8 /* Battleship.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Battleship.cpp; sourceTree = "<group>"; };
+		A10663CC15E7FBCF00DA00C8 /* Battleship.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Battleship.h; sourceTree = "<group>"; };
+		A11DD0F815DCB8BD00B1A0D7 /* OpenGL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGL.framework; path = System/Library/Frameworks/OpenGL.framework; sourceTree = SDKROOT; };
+		A11DD0FB15DCB90500B1A0D7 /* GLUT.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLUT.framework; path = System/Library/Frameworks/GLUT.framework; sourceTree = SDKROOT; };
+		A11DD0FD15DCD02900B1A0D7 /* Display.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Display.cpp; sourceTree = "<group>"; };
+		A11DD0FF15DCD03700B1A0D7 /* Display.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Display.h; sourceTree = "<group>"; };
+		A11DD10015DCD91900B1A0D7 /* libpthread.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libpthread.dylib; path = usr/lib/libpthread.dylib; sourceTree = SDKROOT; };
+		A1B2305815DD737100D9A2E1 /* gfxBox.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = gfxBox.cpp; sourceTree = "<group>"; };
+		A1B2305B15DD737D00D9A2E1 /* gfxBox.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = gfxBox.h; sourceTree = "<group>"; };
+		A1D4CA7615DC4FEC002817C7 /* JSGame */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = JSGame; sourceTree = BUILT_PRODUCTS_DIR; };
+		A1D4CA7A15DC4FEC002817C7 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		A1D4CA7C15DC4FEC002817C7 /* JSGame.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = JSGame.1; sourceTree = "<group>"; };
+		A1D4CA8315DC7C89002817C7 /* javascript_main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = javascript_main.cpp; sourceTree = "<group>"; };
+		A1D4CA8515DC7D07002817C7 /* javascript_main.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = javascript_main.h; sourceTree = "<group>"; };
+		A1D4CA8615DC802A002817C7 /* Player.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Player.cpp; sourceTree = "<group>"; };
+		A1D4CA8815DC8035002817C7 /* Player.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Player.h; sourceTree = "<group>"; };
+		A1D4CA8915DC80FE002817C7 /* main.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = main.h; sourceTree = "<group>"; };
+		A1EF771D15DF49B00025A77E /* Mastermind.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Mastermind.cpp; sourceTree = "<group>"; };
+		A1EF772015DF49BA0025A77E /* Mastermind.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Mastermind.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A1D4CA7315DC4FEC002817C7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A11DD10115DCD91900B1A0D7 /* libpthread.dylib in Frameworks */,
+				A11DD0FC15DCB90500B1A0D7 /* GLUT.framework in Frameworks */,
+				A11DD0F915DCB8BD00B1A0D7 /* OpenGL.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		A1B2305C15DD738300D9A2E1 /* header */ = {
+			isa = PBXGroup;
+			children = (
+				A1D4CA8915DC80FE002817C7 /* main.h */,
+				A1D4CA8515DC7D07002817C7 /* javascript_main.h */,
+				A1D4CA8815DC8035002817C7 /* Player.h */,
+				A11DD0FF15DCD03700B1A0D7 /* Display.h */,
+				A1B2305B15DD737D00D9A2E1 /* gfxBox.h */,
+				A1EF772015DF49BA0025A77E /* Mastermind.h */,
+				A10663CC15E7FBCF00DA00C8 /* Battleship.h */,
+			);
+			name = header;
+			sourceTree = "<group>";
+		};
+		A1B2305D15DD738B00D9A2E1 /* code */ = {
+			isa = PBXGroup;
+			children = (
+				A1B2305815DD737100D9A2E1 /* gfxBox.cpp */,
+				A11DD0FD15DCD02900B1A0D7 /* Display.cpp */,
+				A1D4CA8315DC7C89002817C7 /* javascript_main.cpp */,
+				A1D4CA8615DC802A002817C7 /* Player.cpp */,
+				A1D4CA7A15DC4FEC002817C7 /* main.cpp */,
+				A1EF771D15DF49B00025A77E /* Mastermind.cpp */,
+				A10663C915E7FBC400DA00C8 /* Battleship.cpp */,
+			);
+			name = code;
+			sourceTree = "<group>";
+		};
+		A1D4CA6B15DC4FEC002817C7 = {
+			isa = PBXGroup;
+			children = (
+				A11DD10015DCD91900B1A0D7 /* libpthread.dylib */,
+				A11DD0FB15DCB90500B1A0D7 /* GLUT.framework */,
+				A11DD0F815DCB8BD00B1A0D7 /* OpenGL.framework */,
+				A1D4CA7915DC4FEC002817C7 /* JSGame */,
+				A1D4CA7715DC4FEC002817C7 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		A1D4CA7715DC4FEC002817C7 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A1D4CA7615DC4FEC002817C7 /* JSGame */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A1D4CA7915DC4FEC002817C7 /* JSGame */ = {
+			isa = PBXGroup;
+			children = (
+				A1B2305D15DD738B00D9A2E1 /* code */,
+				A1B2305C15DD738300D9A2E1 /* header */,
+				A1D4CA7C15DC4FEC002817C7 /* JSGame.1 */,
+			);
+			path = JSGame;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A1D4CA7515DC4FEC002817C7 /* JSGame */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A1D4CA8015DC4FEC002817C7 /* Build configuration list for PBXNativeTarget "JSGame" */;
+			buildPhases = (
+				A1D4CA7215DC4FEC002817C7 /* Sources */,
+				A1D4CA7315DC4FEC002817C7 /* Frameworks */,
+				A1D4CA7415DC4FEC002817C7 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = JSGame;
+			productName = JSGame;
+			productReference = A1D4CA7615DC4FEC002817C7 /* JSGame */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A1D4CA6D15DC4FEC002817C7 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0430;
+			};
+			buildConfigurationList = A1D4CA7015DC4FEC002817C7 /* Build configuration list for PBXProject "JSGame" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = A1D4CA6B15DC4FEC002817C7;
+			productRefGroup = A1D4CA7715DC4FEC002817C7 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A1D4CA7515DC4FEC002817C7 /* JSGame */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A1D4CA7215DC4FEC002817C7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A1D4CA7B15DC4FEC002817C7 /* main.cpp in Sources */,
+				A1D4CA8415DC7C89002817C7 /* javascript_main.cpp in Sources */,
+				A1D4CA8715DC802A002817C7 /* Player.cpp in Sources */,
+				A11DD0FE15DCD02900B1A0D7 /* Display.cpp in Sources */,
+				A1B2305915DD737100D9A2E1 /* gfxBox.cpp in Sources */,
+				A1EF771E15DF49B00025A77E /* Mastermind.cpp in Sources */,
+				A10663CA15E7FBC400DA00C8 /* Battleship.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		A1D4CA7E15DC4FEC002817C7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		A1D4CA7F15DC4FEC002817C7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		A1D4CA8115DC4FEC002817C7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				HEADER_SEARCH_PATHS = "/Users/andy/src/google_v8/include/**";
+				ONLY_ACTIVE_ARCH = NO;
+				OTHER_LDFLAGS = "/Users/andy/src/google_v8/libv8-debug.a";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		A1D4CA8215DC4FEC002817C7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				HEADER_SEARCH_PATHS = "/Users/andy/src/google_v8/include/**";
+				ONLY_ACTIVE_ARCH = NO;
+				OTHER_LDFLAGS = "/Users/andy/src/google_v8/libv8-debug.a";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A1D4CA7015DC4FEC002817C7 /* Build configuration list for PBXProject "JSGame" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A1D4CA7E15DC4FEC002817C7 /* Debug */,
+				A1D4CA7F15DC4FEC002817C7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A1D4CA8015DC4FEC002817C7 /* Build configuration list for PBXNativeTarget "JSGame" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A1D4CA8115DC4FEC002817C7 /* Debug */,
+				A1D4CA8215DC4FEC002817C7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A1D4CA6D15DC4FEC002817C7 /* Project object */;
+}
